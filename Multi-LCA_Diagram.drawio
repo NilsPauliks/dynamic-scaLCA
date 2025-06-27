@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="27.1.6">
+  <diagram name="페이지-1" id="DvcwAwUaSndcmHzdNrlP">
+    <mxGraphModel dx="3660" dy="2129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-7" target="-bzRNKQHAmVbdMNPxbPl-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="-60" />
+              <mxPoint x="-468" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-7" target="-bzRNKQHAmVbdMNPxbPl-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="-60" />
+              <mxPoint x="-605" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-7" target="-bzRNKQHAmVbdMNPxbPl-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="-60" />
+              <mxPoint x="-750" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-7" target="-bzRNKQHAmVbdMNPxbPl-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="-60" />
+              <mxPoint x="-340" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-7" value="Materials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-8" value="Useage Stage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-9" target="-bzRNKQHAmVbdMNPxbPl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-9" target="-bzRNKQHAmVbdMNPxbPl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.485;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-9" target="-bzRNKQHAmVbdMNPxbPl-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.1176470588234" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-9" value="End of Life" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-15" value="Metals &amp;amp; Alloys&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;Steel (546.246g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Copper (17.046g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Brass (10.303g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nickel (70.938g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Chromium (17.734g)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-805" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-16" value="Plastics&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;&lt;div&gt;Polypropylene&lt;/div&gt;&lt;div&gt;(758.319g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Polyethylene&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1.360g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PVC&lt;/div&gt;&lt;/div&gt;&lt;div&gt;(80.047g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-665" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-17" value="Other inputs&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;Silicone&lt;br&gt;&lt;/div&gt;&lt;div&gt;(26.629g)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Textiles&lt;br&gt;&lt;/div&gt;&lt;div&gt;(0.503g)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-528" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-20" value="Energy&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Electricity&amp;nbsp;&lt;/div&gt;&lt;div&gt;(50 kJ elec)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-395" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-32" value="Inputs&amp;nbsp;&lt;div&gt;&lt;div&gt;&lt;div&gt;---------------------------------------------------------------------&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Energy (167kWh/year)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-127.78999999999999" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.491;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-8" target="-bzRNKQHAmVbdMNPxbPl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-50" target="-bzRNKQHAmVbdMNPxbPl-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-745" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-37" value="Metals &amp;amp; Alloys&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;80% steel to recycled&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;20% Steel&amp;nbsp;&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;100% Copper, Brass, Nickel, Chromiumi&lt;/div&gt;&lt;div&gt;&amp;nbsp;to landfill&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261.5" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-38" value="Plastics&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;100% to landfill&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401.5" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-39" value="Other inputs&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transport &amp;amp; others&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538.5" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bzRNKQHAmVbdMNPxbPl-37" target="-bzRNKQHAmVbdMNPxbPl-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="190" as="sourcePoint" />
+            <mxPoint x="-745" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="322" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bzRNKQHAmVbdMNPxbPl-50" value="Scrap Steel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
